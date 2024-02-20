@@ -1,0 +1,11 @@
+[
+    {
+      "qualification": "B. Tech, Malla Reddy University, Computer Science And Engineering, CGPA - 7.9"
+    },
+    {
+      "qualification": "Intermediate, Sri Chaitanya Junior College, MPC, Percentage - 90.6"
+    },
+    {
+      "qualification": "Secondary School,Sri vivekananda Vidyalayam, GPA - 10"
+    }
+  ]
